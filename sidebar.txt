@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[npy:home|Door43 (npy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-npy|d43-npy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-npy/archive/master.zip|d43-npy.zip]]
+
+**Recent Changes**
+{{changes>ns = npy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/npy|Ethnologue data]]
+
